@@ -1,1 +1,5 @@
 dados/overturemaps/intermediarios/
+dados/overturemaps/building*
+
+# Estilos QGIS
+*.qmd
